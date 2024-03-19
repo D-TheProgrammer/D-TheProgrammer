@@ -81,7 +81,7 @@ Here are some ideas to get you started:
 
 
 <br clear="both">
-# 
+
 <h4 align="center">
   <a href="https://github.com/D-TheProgrammer?tab=repositories" title="Show Repositories">🔎 Show More Repositories 🔍</a>
 </h4>
