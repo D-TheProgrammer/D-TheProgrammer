@@ -56,14 +56,14 @@ Image_Stegranography_python
 <br/><br/><br/><br/><br/><br/>
 
 <div width="100%" align="center">
-  <a align="left" href="https://github.com/D-TheProgrammer/Turkce-Heceleme-CPP" title="Turkce-Heceleme-CPP"><img align="left" height="115" src="https://github-readme-stats.vercel.app/api/pin/?username=D-TheProgrammer&repo=Turkce-Heceleme-CPP&theme=react&border_color=61dafb&border_radius=10"></a>
-  <a align="right" href="https://github.com/D-TheProgrammer/CopyMoveForgeryDetectionWithDCT" title="Copy&Move Forgery Detection With DCT"><img align="right" height="115" src="https://github-readme-stats.vercel.app/api/pin/?username=D-TheProgrammer&repo=CopyMoveForgeryDetectionWithDCT&theme=react&border_color=61dafb&border_radius=10"></a>
+  <a align="left" href="https://github.com/D-TheProgrammer/Projet-CastlevaniaJS" title="Projet-CastlevaniaJS"><img align="left" height="115" src="https://github-readme-stats.vercel.app/api/pin/?username=D-TheProgrammer&repo=Projet-CastlevaniaJS&theme=react&border_color=61dafb&border_radius=10"></a>
+  <a align="right" href="https://github.com/D-TheProgrammer/MISP_compiler" title="MISP_compiler"><img align="right" height="115" src="https://github-readme-stats.vercel.app/api/pin/?username=D-TheProgrammer&repo=MISP_compiler&theme=react&border_color=61dafb&border_radius=10"></a>
 </div>
 <br/><br/><br/><br/><br/><br/>
 
 <div width="100%" align="center">
-  <a align="left" href="https://github.com/D-TheProgrammer/cpp-openmp-needleman-wunsch" title="Needleman Wunsch Algorithm With OpenMP"><img align="left" height="115" src="https://github-readme-stats.vercel.app/api/pin/?username=D-TheProgrammer&repo=cpp-openmp-needleman-wunsch&theme=react&border_color=61dafb&border_radius=10"></a>
-  <a align="right" href="https://github.com/D-TheProgrammer/javascript-minesweeper" title="Minesweeper"><img align="right" height="115" src="https://github-readme-stats.vercel.app/api/pin/?username=D-TheProgrammer&repo=javascript-minesweeper&theme=react&border_color=61dafb&border_radius=10"></a>
+  <a align="left" href="https://github.com/D-TheProgrammer/Projet-Application_Mobile_in_Kotlin" title="Projet-Application_Mobile_in_Kotlin"><img align="left" height="115" src="https://github-readme-stats.vercel.app/api/pin/?username=D-TheProgrammer&repo=Projet-Application_Mobile_in_Kotlin&theme=react&border_color=61dafb&border_radius=10"></a>
+  <a align="right" href="https://github.com/D-TheProgrammer/Security-Projet_RSA_Affine_Cipher_Decipher" title="Security-Projet_RSA_Affine_Cipher_Decipher"><img align="right" height="115" src="https://github-readme-stats.vercel.app/api/pin/?username=D-TheProgrammer&repo=Security-Projet_RSA_Affine_Cipher_Decipher&theme=react&border_color=61dafb&border_radius=10"></a>
 </div>
 <br/><br/><br/><br/><br/><br/>
 
