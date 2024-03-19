@@ -38,7 +38,7 @@ Here are some ideas to get you started:
 
 <!-- Graph des langues-->
 <div align="center">
-  <img src="https://github-readme-stats.vercel.app/api/top-langs?username=D-TheProgrammer&locale=en&hide_title=false&layout=compact&card_width=320&langs_count=5&theme=dracula&hide_border=false" height="150" alt="languages graph"  />
+  <img src="https://github-readme-stats.vercel.app/api/top-langs?username=D-TheProgrammer&layout=compact&card_width=520&langs_count=12&theme=dracula&hide_border=false&disable_animations=true" height="170" alt="languages graph"  />
 </div>
 
 ---------------
@@ -68,7 +68,7 @@ Here are some ideas to get you started:
 
 <div width="100%" align="center">
   <a align="left" href="https://github.com/D-TheProgrammer/Projet_2D_Platformer_in_Godot" title="2D_Platformer_in_Godot"><img align="left" height="115" src="https://github-readme-stats.vercel.app/api/pin/?username=D-TheProgrammer&repo=Projet_2D_Platformer_in_Godot&theme=react&border_color=61dafb&border_radius=10"></a>
-  <a align="right" href="https://github.com/D-TheProgrammer/Projet_Youtube_Replica_in_XML_XSL_HTML" title="Projet_Youtube_Replica_in_XML_XSL_HTML"><img align="right" height="115" src="https://github-readme-stats.vercel.app/api/pin/?username=D-TheProgrammer&repo=Projet_Youtube_Replica_in_XML_XSL_HTML&theme=react&border_color=61dafb&border_radius=10"></a>
+  <a align="right" href="https://github.com/D-TheProgrammer/Projet_Youtube_Replica_in_XML_XSL_HTML" title="Projet_Youtube_Replica_in_XML_XSL_HTML"><img align="left" height="115" src="https://github-readme-stats.vercel.app/api/pin/?username=D-TheProgrammer&repo=Projet_Youtube_Replica_in_XML_XSL_HTML&theme=react&border_color=61dafb&border_radius=10"></a>
 </div>
 <br/><br/><br/><br/><br/><br/>
 
@@ -90,7 +90,8 @@ Here are some ideas to get you started:
 
 <br clear="both">
 
+<!-- A AJOUTER APRES LE SNAKE CAR IL BUG !!!!!!!!!!!!
 <img src="https://raw.githubusercontent.com/maurodesouza/maurodesouza/output/snake.svg" alt="Snake animation" />
-
+-->
 
 ###
