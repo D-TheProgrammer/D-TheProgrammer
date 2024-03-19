@@ -51,14 +51,16 @@ Image_Stegranography_python
 <div width="100%" align="center">
   <a align="left" href="https://github.com/D-TheProgrammer/Image_Stegranography_python/" title="Image Steganography in Python"><img align="left" height="115" src="https://github-readme-stats.vercel.app/api/pin/?username=D-TheProgrammer&repo=Image_Stegranography_python&theme=react&border_color=61dafb&border_radius=10">
 </a>
-  <a align="right" href="https://github.com/D-TheProgrammer/DataStructures" title="Data Structures"><img align="right" height="115" src="https://github-readme-stats.vercel.app/api/pin/?username=D-TheProgrammer&repo=DataStructures&theme=react&border_color=61dafb&border_radius=10"></a>
+  <a align="right" href="https://github.com/D-TheProgrammer/Projet-Graphic_Interactive_Interface_Tkinter_Pygame" title="Projet-Graphic_Interactive_Interface_Tkinter_Pygame"><img align="right" height="115" src="https://github-readme-stats.vercel.app/api/pin/?username=D-TheProgrammer&repo=Projet-Graphic_Interactive_Interface_Tkinter_Pygame&theme=react&border_color=61dafb&border_radius=10"></a>
 </div>
 <br/><br/><br/><br/><br/><br/>
+
 <div width="100%" align="center">
   <a align="left" href="https://github.com/D-TheProgrammer/Turkce-Heceleme-CPP" title="Turkce-Heceleme-CPP"><img align="left" height="115" src="https://github-readme-stats.vercel.app/api/pin/?username=D-TheProgrammer&repo=Turkce-Heceleme-CPP&theme=react&border_color=61dafb&border_radius=10"></a>
   <a align="right" href="https://github.com/D-TheProgrammer/CopyMoveForgeryDetectionWithDCT" title="Copy&Move Forgery Detection With DCT"><img align="right" height="115" src="https://github-readme-stats.vercel.app/api/pin/?username=D-TheProgrammer&repo=CopyMoveForgeryDetectionWithDCT&theme=react&border_color=61dafb&border_radius=10"></a>
 </div>
 <br/><br/><br/><br/><br/><br/>
+
 <div width="100%" align="center">
   <a align="left" href="https://github.com/D-TheProgrammer/cpp-openmp-needleman-wunsch" title="Needleman Wunsch Algorithm With OpenMP"><img align="left" height="115" src="https://github-readme-stats.vercel.app/api/pin/?username=D-TheProgrammer&repo=cpp-openmp-needleman-wunsch&theme=react&border_color=61dafb&border_radius=10"></a>
   <a align="right" href="https://github.com/D-TheProgrammer/javascript-minesweeper" title="Minesweeper"><img align="right" height="115" src="https://github-readme-stats.vercel.app/api/pin/?username=D-TheProgrammer&repo=javascript-minesweeper&theme=react&border_color=61dafb&border_radius=10"></a>
