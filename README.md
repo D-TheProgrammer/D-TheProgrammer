@@ -22,7 +22,7 @@ Here are some ideas to get you started:
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=D-TheProgrammer&label=Profile%20views&color=0e75b6&style=flat" alt="D-TheProgrammer" /> </p>
 
-- 🌱 I’m currently developping my skills in **Python , C and Prolog**
+- 🌱 I’m currently developping my skills in **Python , C , R, PySpark, Prolog and everythind Data related**
 
 - 👯 I’m looking to collaborate on **the IOData Project (on github)**
 
